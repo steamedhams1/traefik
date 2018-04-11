@@ -1,6 +1,6 @@
 # Tracing
 
-Tracing system allows developers to visualize call flows in there infrastructures.
+Tracing system allows developers to visualize call flows in their infrastructures.
 
 We use [OpenTracing](http://opentracing.io). It is an open standard designed for distributed tracing.
 
